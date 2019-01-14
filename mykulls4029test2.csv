@@ -4,5 +4,5 @@ sg,/appl/ibs/sg/,ibs_sg,sgdbs1,200000,3000,200000,3000,/appl/ibs/sg/OMS/oms_star
 de,/appl/ibs/de/,ibs_de,dedbs1,300000,4000,300000,4000,/appl/ibs/de/OMS/oms_start
 il,/appl/ibs/il/,ibs_il,ildbs1,400000,5000,400000,5000,/appl/ibs/il/OMS/oms_start
 kr,/appl/ibs/kr/,ibs_kr,krdbs1,400000,300000,400000,200000,/appl/ibs/kr/OMS/oms_start
-cn,/appl/ibs/cn/,ibs_cn,cndbs1,400000,400000,400000,400000,/appl/ibs/cn/OMS/oms_start
-cz,/appl/ibs/cz/,ibs_cz,czdbs1,600000,300000,400000,200000,/appl/ibs/cz/OMS/oms_start
+cn,/appl/ibs/cn/,ibs_cn,cndbs1,400000,200000,400000,200000,/appl/ibs/cn/OMS/oms_start
+cz,/appl/ibs/cz/,ibs_cz,czdbs1,600000,300000,400000,400000,/appl/ibs/cz/OMS/oms_start
