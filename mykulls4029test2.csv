@@ -1,7 +1,7 @@
 country,ibs_path,dbname,dbspace,fs_tot,fs_fee,dbs_tot,dbs_utl,oms_base
-my,/appl/ibs/my/,ibs_my,mydbs1,100000,2000,100000,2000,/appl/ibs/my/OMS/oms_start
-sg,/appl/ibs/sg/,ibs_sg,sgdbs1,200000,3000,200000,3000,/appl/ibs/sg/OMS/oms_start
-de,/appl/ibs/de/,ibs_de,dedbs1,300000,4000,300000,4000,/appl/ibs/de/OMS/oms_start
+my,/appl/ibs/my/,ibs_my,mydbs1,100000,100000,100000,100000,/appl/ibs/my/OMS/oms_start
+sg,/appl/ibs/sg/,ibs_sg,sgdbs1,200000,200000,200000,200000,/appl/ibs/sg/OMS/oms_start
+de,/appl/ibs/de/,ibs_de,dedbs1,300000,300000,300000,300000,/appl/ibs/de/OMS/oms_start
 il,/appl/ibs/il/,ibs_il,ildbs1,400000,5000,400000,5000,/appl/ibs/il/OMS/oms_start
 kr,/appl/ibs/kr/,ibs_kr,krdbs1,400000,300000,400000,200000,/appl/ibs/kr/OMS/oms_start
 cn,/appl/ibs/cn/,ibs_cn,cndbs1,400000,200000,400000,200000,/appl/ibs/cn/OMS/oms_start
